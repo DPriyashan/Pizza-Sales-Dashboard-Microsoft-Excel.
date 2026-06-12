@@ -32,13 +32,13 @@ This dashboard provides a comprehensive view of the franchise's business health 
 
 The dashboard features native, real-time interactive menus (Slicers) on the left side that completely alter the visual ecosystem when manipulated:
 
-<img src="image_900442.png" alt="Dashboard Slicers Menu" width="220">
+<img src="pizza_imges/slicer.png">
 
 * **`pizza_category` Slicer (Chicken, Classic, Supreme, Veggie):**
   * **What happens:** Selecting any category instantly filters every single visualization across the page. It isolates metrics to show exactly how that specific product class behaves. For example, selecting `Veggie` updates the entire screen to reveal *only* veggie pizza sales metrics, their individual top earners, size distributions, and specific category trends.
 * **`Month2` Slicer (January - December):**
   * **What happens:** Allows stakeholders to cross-filter performance by specific discrete time windows. Selecting a month isolates the metrics to that exact period, enabling swift monthly business reviews, post-promotional analysis, or seasonal deep-dives.
-* **Multi-Select Compatibility:** Users can hold control/command keys to select multiple months or categories simultaneously (e.g., combining `November` and `December` for a complete Q4 holiday performance review).
+* **Multi-Select Compatibility:** Users can hold control/command keys to select multiple months or categories simultaneously (e.g., combining `November` and `December` for a complete performance review).
 
 ---
 
@@ -49,16 +49,16 @@ Rather than forcing static calculations, the dashboard visualizes operational pa
 ### 🌟 Main System Overview
 The dashboard features an integrated workspace that synchronizes data across metrics, product distributions, and linear sales trends in real time.
 
-<img src="image_900461.jpg" alt="Pizza Sales Dashboard 2024 Main View" width="100%">
+<img src="pizza_imges/full_view.png">
 
 ---
 
 ### 📦 Structural Metric Cards & Champion Spotlights
 * **Top Ribbon KPIs:** Dynamically calculates consolidated metrics, validating processing velocity, gross revenue generation, and global operational peaks.
-* **Menu Highlights Panel:** Isolate and flag the top standout products in the entire database—showing exactly which item captures the highest cash flow (*Thai Chicken Pizza*) and which item captures the highest consumer demand volume (*Classic Deluxe Pizza*).
-
-<img src="image_900404.png" alt="KPI Summary Ribbon" width="100%">
-<img src="image_9003e8.png" alt="Product Spotlight Cards" width="200">
+  <img src="pizza_imges/kpi_1.png">
+  
+* **Menu Highlights Panel:** Isolate and flag the top standout products in the entire database- showing exactly which item captures the highest cash flow (*Thai Chicken Pizza*) and which item captures the highest consumer demand volume (*Classic Deluxe Pizza*).
+  <img src="pizza_imges/kpi_2.png">
 
 ---
 
@@ -66,7 +66,7 @@ The dashboard features an integrated workspace that synchronizes data across met
 * **Pizza Orders by Category (% Share):** A portfolio distribution donut chart that breaks down macro customer preference trends across major menu groups, showing portfolio balance and stability.
 * **Number of Ordered Pizzas by Size:** A volume bar chart structured around consumer size choices (**L, M, S**). This gives inventory and supply-chain managers a clear look at production sizing demand to optimize box and dough preparations.
 
-<img src="image_9003e3.png" alt="Orders Category Donut Chart" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image_90011e.png" alt="Pizza Sizing Demand Chart" width="280">
+<img src="pizza_imges/orders.png" alt="Orders Category Donut Chart" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image_90011e.png" alt="Pizza Sizing Demand Chart" width="280">
 
 ---
 
@@ -80,7 +80,7 @@ The dashboard features an integrated workspace that synchronizes data across met
 ### 📈 Volume Fluctuation & Seasonal Revenue Trends
 * **Monthly Revenue & Volume Trend Lines:** Dual visualization lines embedded with auto-calculated statistical trend vectors. These lines map chronological sales momentum, highlighting sharp holiday or summer spikes versus operational troughs to improve annual budget planning and marketing distribution schedules.
 
-<img src="image_900118.png" alt="Temporal Trends and Revenue Projections" width="100%">
+<img src="pizza_imges/sales.png" alt="Temporal Trends and Revenue Projections" width="100%">
 
 ---
 
@@ -88,3 +88,16 @@ The dashboard features an integrated workspace that synchronizes data across met
 * **Optimized Inventory Sizing:** Guides suppliers to structure storage volumes around Large scale allocations rather than Small alternatives based on raw ordering popularity.
 * **Balanced Menu Architecture:** Highlights low-risk business resilience due to balanced, near-equal segment distributions across major dietary categories.
 * **Value vs. Velocity Discovery:** Separates premium margin anchors from rapid-turnover volume drivers, maximizing product placement and promotional design strategies.
+
+---
+## 👤 Author
+
+**Dinusha Priyashan**
+
+Data Science Undergraduate  
+University of Colombo
+
+---
+
+## 📄 License
+This repository is shared for **educational and portfolio purposes only**.

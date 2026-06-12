@@ -73,14 +73,14 @@ The dashboard features an integrated workspace that synchronizes data across met
 ### 🏆 Product Performance Benchmarking
 * **Top 5 Best Selling & Most Ordered Pizzas:** Dual side-by-side vertical bar charts that contrast financial impact against pure volume frequency. It clarifies whether items are driving value through high premium margins or through rapid order turnaround.
 
-<img src="image_900420.png" alt="Product Volume and Revenue Benchmarking" width="100%">
+<img src="pizza_imges/sales.png" alt="Product Volume and Revenue Benchmarking" width="100%">
 
 ---
 
 ### 📈 Volume Fluctuation & Seasonal Revenue Trends
 * **Monthly Revenue & Volume Trend Lines:** Dual visualization lines embedded with auto-calculated statistical trend vectors. These lines map chronological sales momentum, highlighting sharp holiday or summer spikes versus operational troughs to improve annual budget planning and marketing distribution schedules.
 
-<img src="pizza_imges/sales.png" alt="Temporal Trends and Revenue Projections" width="100%">
+<img src="pizza_imges/monthly_distribution.png" alt="Temporal Trends and Revenue Projections" width="100%">
 
 ---
 

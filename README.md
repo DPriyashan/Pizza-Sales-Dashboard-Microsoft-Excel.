@@ -2,9 +2,23 @@
 
 An interactive Excel analytics dashboard designed to monitor, track, and optimize the operational and financial performance of a pizza franchise. This repository contains the source data and dashboard interface used to transform transactional records into actionable business insights.
 
+## 🎓 Academic Context
+
+This project was completed as part of academic learning to apply concepts in:
+
+- Data Analysis
+- Business Intelligence
+- Data Visualization
+- Spreadsheet Analytics
+- Dashboard Development
+
+The objective was to transform raw transactional data into meaningful business insights using Excel
+
 ---
 
 ## 📌 Core Architecture: What This Dashboard Shows
+
+<img src="image_900442.png" alt="Dashboard Slicers Menu" width="220">
 
 This dashboard provides a comprehensive view of the franchise's business health over the year 2024. It bridges the gap between high-level executive summaries and granular operational realities by presenting data across three structural levels:
 

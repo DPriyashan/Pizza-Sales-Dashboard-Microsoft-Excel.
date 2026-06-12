@@ -58,6 +58,7 @@ The dashboard features an integrated workspace that synchronizes data across met
   <img src="pizza_imges/kpi_1.png">
   
 * **Menu Highlights Panel:** Isolate and flag the top standout products in the entire database- showing exactly which item captures the highest cash flow (*Thai Chicken Pizza*) and which item captures the highest consumer demand volume (*Classic Deluxe Pizza*).
+
   <img src="pizza_imges/kpi_2.png">
 
 ---

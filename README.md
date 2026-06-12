@@ -18,7 +18,7 @@ The objective was to transform raw transactional data into meaningful business i
 
 ## 📌 Core Architecture: What This Dashboard Shows
 
-<img src="image_900442.png" alt="Dashboard Slicers Menu" width="220">
+<img src="pizza_imges/dashboard.png">
 
 This dashboard provides a comprehensive view of the franchise's business health over the year 2024. It bridges the gap between high-level executive summaries and granular operational realities by presenting data across three structural levels:
 

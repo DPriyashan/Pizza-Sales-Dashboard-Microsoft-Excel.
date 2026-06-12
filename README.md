@@ -66,7 +66,7 @@ The dashboard features an integrated workspace that synchronizes data across met
 * **Pizza Orders by Category (% Share):** A portfolio distribution donut chart that breaks down macro customer preference trends across major menu groups, showing portfolio balance and stability.
 * **Number of Ordered Pizzas by Size:** A volume bar chart structured around consumer size choices (**L, M, S**). This gives inventory and supply-chain managers a clear look at production sizing demand to optimize box and dough preparations.
 
-<img src="pizza_imges/orders.png" alt="Orders Category Donut Chart" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image_90011e.png" alt="Pizza Sizing Demand Chart" width="280">
+<img src="pizza_imges/orders.png" alt="Orders Category Donut Chart" width="280">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="pizza_imges/order_by_size.png" alt="Pizza Sizing Demand Chart" width="280">
 
 ---
 
